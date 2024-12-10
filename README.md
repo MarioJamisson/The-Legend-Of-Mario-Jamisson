@@ -15,31 +15,30 @@ O sistema gerencia seguros de veículos para clientes, incluindo seguros de carr
 
 ### **Exercicio 1**  
 ![Exercicio 1 - a)](https://i.postimg.cc/7ZcyTd20/Captura-de-tela-2024-12-09-215637.png)
-![Exercicio 1 - b)](https://postimg.cc/6TymW6zS)
-![Exercicio 1 - c)](https://postimg.cc/sMR64Yyd)
+![Exercicio 1 - b)](https://i.postimg.cc/MZD2YvBW/Captura-de-tela-2024-12-09-215843.png)
+![Exercicio 1 - c)](https://i.postimg.cc/VkJx1gV6/Captura-de-tela-2024-12-09-220009.png)
 
 ### **Exercicio 2**  
-![Exercicio 2 - a](https://postimg.cc/5QCgw0R2)
-![Exercicio 2 - b](https://postimg.cc/5QCgw0R2)
+![Exercicio 2 - a](https://i.postimg.cc/j281Yn6P/Captura-de-tela-2024-12-09-220157.png)
 
 ### **Exercicio 3**  
-![Exercicio 3 - a](https://postimg.cc/F1MDhyYd)
-![Exercicio 3 - b](https://postimg.cc/75VV1jm0)
-![Exercicio 3 - c](https://postimg.cc/FfCV83tK)
+![Exercicio 3 - a](https://i.postimg.cc/SNs57Vqr/Captura-de-tela-2024-12-09-220428.png)
+![Exercicio 3 - b](https://i.postimg.cc/5tcRJVz7/Captura-de-tela-2024-12-09-220505.png)
+![Exercicio 3 - c](https://i.postimg.cc/85NXFmtL/Captura-de-tela-2024-12-09-220629.png)
 
 ### **Exercicio 4**  
-![Exercicio 4 - a](https://postimg.cc/CzpH3w2b)
-![Exercicio 4 - b](https://postimg.cc/hf8bgHF6)
-![Exercicio 4 - c](https://postimg.cc/zy0CHKGk)
-![Exercicio 4 - c: parte 2](https://postimg.cc/cg8wzzMD)
+![Exercicio 4 - a](https://i.postimg.cc/dtLHT1mN/Captura-de-tela-2024-12-09-220817.png)
+![Exercicio 4 - b](https://i.postimg.cc/9FKxPhLm/Captura-de-tela-2024-12-09-220905.png)
+![Exercicio 4 - c](https://i.postimg.cc/xdSt7PrB/Captura-de-tela-2024-12-09-221102.png)
+![Exercicio 4 - c: parte 2](https://i.postimg.cc/XJsLrSZ0/Captura-de-tela-2024-12-09-221221.png)
 
 ### **Exercicio 5**  
-![Exercicio 5 - a, b, c](https://postimg.cc/qzrymjtL)
+![Exercicio 5 - a, b, c](https://i.postimg.cc/DyJ6wNnt/Captura-de-tela-2024-12-09-221343.png)
 
 ### **Exercicio 6**  
-![Exercicio 6 - a](https://postimg.cc/XpgFtdd0)
-![Exercicio 6 - b](https://postimg.cc/LqJ1qW7H)
-![Exercicio 6 - c](https://postimg.cc/HJF7b2Db)
+![Exercicio 6 - a](https://i.postimg.cc/VLxRrFN5/Captura-de-tela-2024-12-09-221521.png)
+![Exercicio 6 - b](https://i.postimg.cc/fbKjPnf0/Captura-de-tela-2024-12-09-221627.png)
+![Exercicio 6 - c](https://i.postimg.cc/LX8BKCxQ/Captura-de-tela-2024-12-09-221727.png)
 
 
 
