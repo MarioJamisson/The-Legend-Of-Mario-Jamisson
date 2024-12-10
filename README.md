@@ -105,8 +105,8 @@ Validade do seguro moto: Seguro válido
 
 ## **8. Contribuidores**  
 
-- **[Mario Jamisson]** - Desenvolvimento do sistema  
-- **Professor [João Isaac Silva Miranda]** - Orientação  
+- **Mario Jamisson** - Desenvolvimento do sistema  
+- **Professor João Isaac Silva Miranda** - Orientação  
 
 ---
 
