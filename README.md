@@ -75,7 +75,7 @@ O sistema gerencia seguros de veículos para clientes, incluindo seguros de carr
    ```
 2. Navegue até a pasta do projeto:  
    ```bash
-   cd projeto-seguros
+   cd projeto_2 - MarioJamisson
    ```
 3. Execute o arquivo de teste:  
    ```bash
@@ -105,8 +105,8 @@ Validade do seguro moto: Seguro válido
 
 ## **8. Contribuidores**  
 
-- **[Seu Nome]** - Desenvolvimento do sistema  
-- **Professor [Nome]** - Orientação  
+- **[Mario Jamisson]** - Desenvolvimento do sistema  
+- **Professor [João Isaac Silva Miranda]** - Orientação  
 
 ---
 
